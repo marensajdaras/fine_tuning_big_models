@@ -2,6 +2,7 @@
 ways to fine tune big models 
 
 Key points: 
+
   -> Freezing Layers
   
   -> Unfreezing Layers
