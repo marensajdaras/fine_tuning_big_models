@@ -1,0 +1,1 @@
+one problem is laoding the model in a disk space that is smaller than it, the process cannot be done unless we go for a smaller model, or find a way to make the model smaller 
